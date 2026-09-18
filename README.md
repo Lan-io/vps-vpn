@@ -1,8 +1,8 @@
 # 丽萨主机（LisaHost）深度测评：三年真实使用体验，优缺点全盘托出
 
-> 🎯 **一句话总结**：如果你需要双ISP住宅原生IP来做跨境电商、TikTok运营或流媒体解锁，LisaHost是值得认真考虑的选择。
+> 🌐 **语言 / Language**: [简体中文](https://github.com/Lan-io/vps-vpn/blob/main/README.md) | [English](https://github.com/Lan-io/vps-vpn/blob/main/README_EN.md) | [Deutsch](https://github.com/Lan-io/vps-vpn/blob/main/README_DE.md) | [Français](https://github.com/Lan-io/vps-vpn/blob/main/README_FR.md) | [Español](https://github.com/Lan-io/vps-vpn/blob/main/README_ES.md) | [Português](https://github.com/Lan-io/vps-vpn/blob/main/README_PT.md) | [Русский](https://github.com/Lan-io/vps-vpn/blob/main/README_RU.md) | [日本語](https://github.com/Lan-io/vps-vpn/blob/main/README_JA.md) | [한국어](https://github.com/Lan-io/vps-vpn/blob/main/README_KO.md) | [العربية](https://github.com/Lan-io/vps-vpn/blob/main/README_AR.md) | [हिन्दी](https://github.com/Lan-io/vps-vpn/blob/main/README_HI.md)
 
-🌐 **[English Version](https://github.com/Lan-io/vps-vpn/blob/main/README_EN.md)**
+> 🎯 **一句话总结**：如果你需要双ISP住宅原生IP来做跨境电商、TikTok运营或流媒体解锁，LisaHost是值得认真考虑的选择。
 
 ---
 
